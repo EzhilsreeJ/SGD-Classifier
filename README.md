@@ -49,7 +49,7 @@ print(df.head())
 ## Output:
 ![image](https://github.com/user-attachments/assets/71a66a3e-154b-49b5-803b-4aed0f733e74)
 
-```
+
 ```
 X = df.drop('target',axis=1)
 y=df['target']
